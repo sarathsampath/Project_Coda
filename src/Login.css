@@ -1,0 +1,25 @@
+.login{
+    min-height:500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+.Mail{
+    position: relative;
+    top:200px;
+}
+.Password{
+    position: relative;
+    top:230px;
+}
+.button{
+    position: relative;
+    top:250px;
+}
+
+.LoginHeader{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}

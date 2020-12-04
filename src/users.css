@@ -1,0 +1,21 @@
+.moviedetails{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: burlywood;
+    min-width:800px;
+    min-height:600px;
+    
+}
+.Genere{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.Logout{
+    position: relative;
+    left:1000px;
+    top:30px;
+}

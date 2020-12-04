@@ -1,0 +1,20 @@
+.DeleteMoviecss{
+    
+        min-height:400px;
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+        align-items: center;
+        background-color: blanchedalmond;
+    
+}
+.DisplayMovie{
+    
+    min-height:200px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    background-color: blanchedalmond;
+
+}

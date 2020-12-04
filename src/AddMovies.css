@@ -1,0 +1,7 @@
+.AddMoviescss{
+    min-height:600px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    background-color: blanchedalmond;
+}

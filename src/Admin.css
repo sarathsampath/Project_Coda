@@ -1,0 +1,19 @@
+.Admincss{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content:space-evenly;
+    min-height: 490px;
+    background-color: bisque;
+}
+.AdminElements{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content:center;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
